@@ -1,2 +1,1 @@
-# codeforces_c-
-algorithm template 
+# codeforces_c++ 
